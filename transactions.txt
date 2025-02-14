@@ -1,0 +1,8 @@
+[Time: 2025-02-14 09:42:04] Account: SAV001 | Amount: $300.00 | Transaction Type: DEPOSIT
+[Time: 2025-02-14 09:42:04] Account: CHK001 | Amount: $-300.00 | Transaction Type: WITHDRAWAL
+[Time: 2025-02-14 09:42:04] Account: SAV001 | Amount: $-250.00 | Transaction Type: Transfer to CHK001
+[Time: 2025-02-14 09:42:04] Account: CHK001 | Amount: $250.00 | Transaction Type: Transfer from SAV001
+[Time: 2025-02-14 10:03:07] Account: SAV001 | Amount: $300.00 | Transaction Type: DEPOSIT
+[Time: 2025-02-14 10:03:07] Account: CHK001 | Amount: $-300.00 | Transaction Type: WITHDRAWAL
+[Time: 2025-02-14 10:03:07] Account: SAV001 | Amount: $-250.00 | Transaction Type: Transfer to CHK001
+[Time: 2025-02-14 10:03:07] Account: CHK001 | Amount: $250.00 | Transaction Type: Transfer from SAV001
